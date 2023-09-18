@@ -7,6 +7,8 @@ Cheatsheet of tools for administrate, troubleshooting and debugging IT systems
 
 ## ltrace
 
+## pidof
+
 ## iotop
 
 ## iftop
@@ -15,11 +17,11 @@ Cheatsheet of tools for administrate, troubleshooting and debugging IT systems
 
 ## vmstat
 
-## nice
+## nice and renice
 
 ## ionice
 
 ## Trickle
 
-
+## ApacheBench
 
