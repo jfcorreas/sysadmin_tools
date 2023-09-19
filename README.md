@@ -1,6 +1,8 @@
 # sysadmin_tools
 Cheatsheet of tools for administrate, troubleshooting and debugging IT systems
 
+## ps
+
 ## top
 
 ## strace
@@ -8,6 +10,8 @@ Cheatsheet of tools for administrate, troubleshooting and debugging IT systems
 ## ltrace
 
 ## pidof
+
+## locate
 
 ## iotop
 
@@ -25,3 +29,8 @@ Cheatsheet of tools for administrate, troubleshooting and debugging IT systems
 
 ## ApacheBench
 
+# Analize Code Tools
+
+## gProf (C)
+
+## cProfile (Python)
