@@ -29,8 +29,14 @@ Cheatsheet of tools for administrate, troubleshooting and debugging IT systems
 
 ## ApacheBench
 
+## time
+
 # Analize Code Tools
 
 ## gProf (C)
 
 ## cProfile (Python)
+
+## pprofile3 (Python)
+
+## kcachegrind
