@@ -21,6 +21,8 @@ Cheatsheet of tools for administrate, troubleshooting and debugging IT systems
 
 ## vmstat
 
+## netstat
+
 ## nice and renice
 
 ## ionice
