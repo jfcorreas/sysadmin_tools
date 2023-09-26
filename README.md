@@ -33,6 +33,10 @@ Cheatsheet of tools for administrate, troubleshooting and debugging IT systems
 
 ## time
 
+## Valgrind
+
+## Dr. Memory
+
 # Analize Code Tools
 
 ## gProf (C)
